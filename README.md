@@ -1,4 +1,4 @@
-# ecommerece_velocity_app
+# Velocity
 
 A new Flutter project.
 
