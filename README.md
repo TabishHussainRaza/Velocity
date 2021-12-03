@@ -1,6 +1,6 @@
 # Velocity
 
-A new Flutter project.
+Ecommerce App to run with Laravel Backend. API calls are used to fetch data. Download and set up the backend from this link in order to run the app: https://github.com/TabishHussainRaza/VelocityBackend
 
 ## Getting Started
 
